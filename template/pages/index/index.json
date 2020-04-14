@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+	   "cardItem":"../../components/cardItem/cardItem",
+	    "commentStars":"../../components/commentStars/commentStars"
+  }
+}
