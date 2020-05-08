@@ -2,7 +2,8 @@
   "pages": [
     "pages/index/index",
     "pages/hotRecommend/hotRecommend",
-    "pages/aboutMe/aboutMe"
+    "pages/aboutMe/aboutMe",
+    "pages/my-notebooks/my-notebooks"
   ],
   "window": {
    "backgroundTextStyle": "light",
